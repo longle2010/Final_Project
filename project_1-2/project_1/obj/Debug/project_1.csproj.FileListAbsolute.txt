@@ -1,0 +1,12 @@
+D:\C#\19-12-2021\project_1\project_1\bin\Debug\project_1.exe.config
+D:\C#\19-12-2021\project_1\project_1\bin\Debug\project_1.exe
+D:\C#\19-12-2021\project_1\project_1\bin\Debug\project_1.pdb
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.csproj.AssemblyReference.cache
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.Form1.resources
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.Nhapkho.resources
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.Properties.Resources.resources
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.csproj.GenerateResource.cache
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.exe
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.pdb
+D:\C#\19-12-2021\project_1\project_1\obj\Debug\project_1.BanHang.resources
